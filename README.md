@@ -1,4 +1,4 @@
-# Gestao_Estoque
+# Gestao Estoque
 
 ## Descrição
 
@@ -30,6 +30,15 @@ Com uma interface simples e intuitiva, o sistema permite:
 - **Banco de Dados:**  
   - MySQL (ou qualquer outro banco de dados relacional compatível)
 
+
+## Imagens do projeto
+![image](https://github.com/user-attachments/assets/67c49a69-e4c8-4a8e-9ec0-88a775e1886f)
+
+![image](https://github.com/user-attachments/assets/499fc962-4ac0-4265-bab3-92a91431bd52)
+
+![image](https://github.com/user-attachments/assets/bf4dd9e6-3115-4b40-a058-cb0ed59a8b2f)
+
+![image](https://github.com/user-attachments/assets/cc663e55-09bd-4d01-90b7-91d32b892fa2)
 
 ## Como Rodar o Projeto
 
