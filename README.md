@@ -42,5 +42,5 @@ Com uma interface simples e intuitiva, o sistema permite:
 ### Passos para Execução
 
 1. **Clonar o repositório:**
-   ```bash
 https://github.com/vinisilvabariane/Gestao_Estoque.git
+   ```bash
